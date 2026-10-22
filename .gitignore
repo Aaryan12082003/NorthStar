@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.tsbuildinfo
+.cursor/
+.agents/
+.claude/
+.devin/
+agent-tools/
+dump.rdb
+server/uploads/*
+!server/uploads/.gitkeep
